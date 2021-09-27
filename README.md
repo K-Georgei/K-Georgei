@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @K-Georgei
+- 👀 I’m interested in: Python || c# || html css js
+- 🌱 I’m currently learning Python
+- 📫 You can reach me on Instagram: @georgei__2
