@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @K-Georgei
-- 👀 I’m interested in: Python || c# || html css js
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in: C# | HTML CSS JS
+- 🌱 I’m currently learning .NET MAUI, KOTLIN
 - 📫 You can reach me on Instagram: @[georgei.klein](https://www.instagram.com/georgei.klein/)
