@@ -18,4 +18,4 @@ I strive to combine artistic expression with precise engineering.
 
 ## 📫 Contact
 
-- 🌐 [LinkedIn](<www.linkedin.com/in/kleingergo>)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/kleingergo/)
