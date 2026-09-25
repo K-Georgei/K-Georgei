@@ -2,10 +2,8 @@
 
 ## About Me
 I'm **K-Georgei**, a Hungary-based software engineer.  
-I work as a solo developer at **Simo Group Kft.** while finishing my BSc in Software Engineering at **EKKE**.  
-I enjoy full-stack development, shader programming and 3D design, and I try to combine artistic expression with precise engineering.
 
-BSc in progress, Software Engineering @ EKKE | C1 English | FEOR 3142/9 Certified
+BSc in progress, Software Engineering 
 
 ## Currently Working On
 - **Quotation system**: full-stack development of a new quotation platform that replaces a legacy Excel-based workflow
