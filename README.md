@@ -19,7 +19,7 @@ BSc in progress, Software Engineering @ EKKE | C1 English | FEOR 3142/9 Certifie
 | **Frontend**            | `React`, `Vue 3`, `Angular`, `shadcn/ui`, `TailwindCSS`, `Vite`                    |
 | **Backend & Data**      | `Node.js`, `Laravel`, `PostgreSQL`, `SQLite`                                       |
 | **Desktop**             | `Electron`, `.NET Windows Forms`, `.NET WPF`, `.NET MAUI`, `WinUI`                 |
-| **Excel Automation**    | `VBA`, `LAMBDA functions`, `Dynamic Arrays`, `Power Query`                         |
+| **Excel Automation**    | `LAMBDA functions`, `Dynamic Arrays`, `Power Query`                                |
 | **Language Design**     | `Context-free grammars`, `EBNF`, `L-systems` (SceneDefiner DSL)                    |
 | **Deployment**          | `Vercel`, `GitHub Actions`                                                         |
 | **3D & Visuals**        | `Blender`, `Three.js`, `Bambu Studio` (3D printing)                                |
